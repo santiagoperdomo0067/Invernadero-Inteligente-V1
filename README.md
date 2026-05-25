@@ -89,3 +89,10 @@ Cuando la iluminación descendía por debajo del umbral configurado, el comparad
 El relé permitía conectar una fuente externa de 12V encargada de alimentar el sistema de LEDs.
 
 Esta configuración permitió controlar cargas de mayor voltaje sin afectar directamente la electrónica de control.
+
+## Evidencia del proyecto
+
+### Imagenes de la maqueta y circuito
+
+![Vista general](01_FOTOS)
+
